@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-7620.895 -14640.72 864.459 378.474">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #009ff4;
+        opacity: 0.261;
+      }
+
+      .cls-2 {
+        fill: #50a5dc;
+        opacity: 0.165;
+      }
+    </style>
+  </defs>
+  <g id="Group_271" data-name="Group 271" transform="translate(-7667 -14930)">
+    <circle id="Ellipse_280" data-name="Ellipse 280" class="cls-1" cx="137.391" cy="137.391" r="137.391" transform="translate(635.783 289.28)"/>
+    <ellipse id="Ellipse_281" data-name="Ellipse 281" class="cls-2" cx="165.054" cy="164.554" rx="165.054" ry="164.554" transform="translate(46.105 338.645)"/>
+  </g>
+</svg>

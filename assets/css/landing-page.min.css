@@ -1,0 +1,290 @@
+
+
+body
+{
+    font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    z-index: 1000;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+header.masthead
+{
+    position: relative;
+    background-color: #2c3f97;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    z-index: 500;
+}
+
+header.masthead .overlay
+{
+    position: absolute;
+    background-color: #212529;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: .3;
+    background-image: url('../img/overlay.jpg');
+    background-size: cover;
+    z-index: -1555;
+}
+
+header.masthead h1
+{
+    font-size: 2rem;
+}
+
+@media (min-width:768px)
+{
+    header.masthead
+    {
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+    }
+    header.masthead h1
+    {
+        font-size: 3rem;
+    }
+}
+
+.about .about-text
+{
+    padding: 3rem;
+}
+
+.about .about-img
+{
+    min-height: 30rem;
+    background-size: cover;
+}
+
+@media (min-width:768px)
+{
+    .about .about-text
+    {
+        padding: 7rem;
+    }
+}
+
+.features-icons
+{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.features-icons .features-icons-item
+{
+    max-width: 20rem;
+}
+
+.features-icons .features-icons-item .features-icons-icon
+{
+    height: 7rem;
+}
+
+.features-icons .features-icons-item .features-icons-icon i
+{
+    font-size: 4.5rem;
+}
+
+.features-icons .features-icons-item:hover .features-icons-icon i
+{
+    font-size: 5rem;
+}
+
+.teams
+{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.teams .team-item
+{
+    max-width: 18rem;
+}
+
+.teams .team-item img
+{
+    max-width: 12rem;
+    box-shadow: 0 5px 5px 0 #adb5bd;
+}
+
+.call-to-action
+{
+    position: relative;
+    background-color: #008dff;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.call-to-action .overlay
+{
+    position: absolute;
+    background-color: #212529;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: .3;
+}
+
+footer.footer
+{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    position: relative;
+    z-index: 500;
+}
+
+.rak
+{
+    position: fixed;
+}
+
+.mancing
+{
+    position: fixed;
+    z-index: -1500;
+    left: 10%;
+    top: 35%;
+}
+
+.sinaran
+{
+    z-index: -1800;
+    position: fixed;
+    left: 5%;
+    top: 15%;
+}
+
+.head-element
+{
+    max-width: 0.2em;
+}
+
+header.masthead .opening
+{
+    z-index: 1;
+    left: 10%;
+}
+
+.navbar-brand
+{
+    background-image: url('../img/logo.svg');
+    width: 150px;
+    background-repeat: no-repeat;
+    height: 60px;
+}
+
+section
+{
+    position: relative;
+    z-index: 1500;
+}
+
+.map
+{
+    height: 720px;
+    padding-right: 3rem;
+    padding-top: 2rem;
+    position: relative;
+    background-image: url('../img/map.jpg');
+}
+
+.place
+{
+    height: 300px;
+    padding: 1rem;
+    position: relative;
+}
+
+.bg-white-transparent
+{
+    background-color: rgba(255, 255, 255, 0.85)!important;
+}
+
+.pricing
+{
+    padding-bottom: 4rem;
+}
+
+hr
+{
+    width: 15%;
+    border: 5px solid #ffc107;
+}
+
+.card-block
+{
+    padding: 2rem 1rem;
+}
+
+.card hr
+{
+    border: 1px solid lightgrey;
+    width: 100%;
+}
+
+.about
+{
+    padding-top: 3rem;
+}
+
+footer .container
+{
+    z-index: 1;
+    position: inherit;
+}
+
+.bg-dark
+{
+    z-index: 2;
+}
+
+.lokasi
+{
+}
+
+.math
+{
+    z-index: -1800;
+    position: fixed;
+    left: 5%;
+    top: 25%;
+}
+
+.phys
+{
+    z-index: -1800;
+    position: fixed;
+    left: 17%;
+    top: 13%;
+}
+
+.chem
+{
+    z-index: -1800;
+    position: fixed;
+    left: 30%;
+    top: 24%;
+}
+
+.navbar
+{
+    z-index: 1800;
+    border-bottom: 1px solid blue;
+}
+

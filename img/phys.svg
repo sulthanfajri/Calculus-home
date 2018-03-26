@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-7486.22 -14800.737 140.912 140.912">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d82d1;
+        opacity: 0.653;
+      }
+
+      .cls-2, .cls-6, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ccd6e5;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6, .cls-9 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke-width: 3.315px;
+      }
+
+      .cls-3 {
+        fill: #100929;
+        stroke: #0c082c;
+      }
+
+      .cls-4, .cls-8 {
+        opacity: 0.2;
+      }
+
+      .cls-5 {
+        fill: #7480ac;
+        stroke: #7783ba;
+      }
+
+      .cls-6 {
+        stroke: #c3cfe8;
+      }
+
+      .cls-6, .cls-9 {
+        stroke-width: 6.63px;
+      }
+
+      .cls-7 {
+        fill: #0a273c;
+      }
+
+      .cls-9 {
+        stroke: #abbad8;
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Phys" transform="translate(-7486.22 -14800.737)">
+    <path id="Path_118" data-name="Path 118" class="cls-1" d="M70.456-.278A70.456,70.456,0,1,1,0,70.178,70.5,70.5,0,0,1,70.456-.278Z" transform="translate(0 0.278)"/>
+    <g id="Group_113" data-name="Group 113" transform="translate(32.401 35.813)">
+      <line id="Line_11" data-name="Line 11" class="cls-2" x1="13.676" y1="30.283" transform="translate(51.531 3.908)"/>
+      <ellipse id="Ellipse_104" data-name="Ellipse 104" class="cls-3" cx="4.396" cy="4.396" rx="4.396" ry="4.396" transform="translate(63.742 33.214)"/>
+      <g id="Group_105" data-name="Group 105" class="cls-4" transform="translate(51.531 3.908)">
+        <line id="Line_12" data-name="Line 12" class="cls-2" x1="20.515" y1="28.818" transform="translate(0 0)"/>
+        <ellipse id="Ellipse_105" data-name="Ellipse 105" class="cls-5" cx="4.396" cy="4.396" rx="4.396" ry="4.396" transform="translate(16.607 25.399)"/>
+      </g>
+      <line id="Line_13" data-name="Line 13" class="cls-2" y1="40.541" transform="translate(25.643 3.908)"/>
+      <line id="Line_14" data-name="Line 14" class="cls-2" y1="40.541" transform="translate(34.435 3.908)"/>
+      <line id="Line_15" data-name="Line 15" class="cls-2" y1="40.541" transform="translate(43.227 3.908)"/>
+      <line id="Line_16" data-name="Line 16" class="cls-2" y1="40.541" transform="translate(16.851 3.908)"/>
+      <g id="Group_106" data-name="Group 106" transform="translate(8.548 1.954)">
+        <path id="Path_117" data-name="Path 117" class="cls-6" d="M21.24,67.965V15.7c0-3.637,2.777-6.838,6.35-6.838H65.2c3.573,0,6.35,3.2,6.35,6.838V67.965" transform="translate(-21.24 -8.864)"/>
+      </g>
+      <rect id="Rectangle_126" data-name="Rectangle 126" class="cls-7" width="67.405" height="9.28" rx="4.64" transform="translate(0 60.322)"/>
+      <path id="Intersection_1" data-name="Intersection 1" class="cls-8" d="M4.088,2.443A4.64,4.64,0,0,1,0,0H66.3a4.64,4.64,0,0,1-4.088,2.443Z" transform="translate(0.552 67.16)"/>
+      <g id="Group_107" data-name="Group 107" transform="translate(16.851 0)">
+        <line id="Line_17" data-name="Line 17" class="cls-9" y2="4.396" transform="translate(0 0)"/>
+        <line id="Line_18" data-name="Line 18" class="cls-9" y2="4.396" transform="translate(8.792 0)"/>
+        <line id="Line_19" data-name="Line 19" class="cls-9" y2="4.396" transform="translate(17.584 0)"/>
+        <line id="Line_20" data-name="Line 20" class="cls-9" y2="4.396" transform="translate(25.887 0)"/>
+        <line id="Line_21" data-name="Line 21" class="cls-9" y2="4.396" transform="translate(34.679 0)"/>
+      </g>
+      <ellipse id="Ellipse_106" data-name="Ellipse 106" class="cls-3" cx="4.396" cy="4.396" rx="4.396" ry="4.396" transform="translate(12.455 40.541)"/>
+      <ellipse id="Ellipse_107" data-name="Ellipse 107" class="cls-3" cx="4.396" cy="4.396" rx="4.396" ry="4.396" transform="translate(21.247 40.541)"/>
+      <ellipse id="Ellipse_108" data-name="Ellipse 108" class="cls-3" cx="4.152" cy="4.396" rx="4.152" ry="4.396" transform="translate(30.039 40.541)"/>
+      <ellipse id="Ellipse_109" data-name="Ellipse 109" class="cls-3" cx="4.396" cy="4.396" rx="4.396" ry="4.396" transform="translate(38.343 40.541)"/>
+      <g id="Group_108" data-name="Group 108" transform="translate(14.165 41.762)">
+        <ellipse id="Ellipse_110" data-name="Ellipse 110" class="cls-10" cx="1.221" cy="1.221" rx="1.221" ry="1.221" transform="translate(0 0)"/>
+      </g>
+      <g id="Group_109" data-name="Group 109" transform="translate(64.963 34.924)">
+        <ellipse id="Ellipse_111" data-name="Ellipse 111" class="cls-10" cx="1.221" cy="1.221" rx="1.221" ry="1.221" transform="translate(0 0)"/>
+      </g>
+      <g id="Group_110" data-name="Group 110" transform="translate(23.445 41.762)">
+        <ellipse id="Ellipse_112" data-name="Ellipse 112" class="cls-10" cx="1.221" cy="1.221" rx="1.221" ry="1.221" transform="translate(0 0)"/>
+      </g>
+      <g id="Group_111" data-name="Group 111" transform="translate(32.237 41.762)">
+        <ellipse id="Ellipse_113" data-name="Ellipse 113" class="cls-10" cx="0.977" cy="1.221" rx="0.977" ry="1.221" transform="translate(0 0)"/>
+      </g>
+      <g id="Group_112" data-name="Group 112" transform="translate(41.029 41.762)">
+        <ellipse id="Ellipse_114" data-name="Ellipse 114" class="cls-10" cx="0.977" cy="1.221" rx="0.977" ry="1.221" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
